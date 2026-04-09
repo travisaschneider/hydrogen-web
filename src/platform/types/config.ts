@@ -15,7 +15,7 @@ export type Config = {
     defaultHomeServer: string;
     /**
      * The submit endpoint for your preferred rageshake server.
-     * eg: https://element.io/bugreports/submit
+     * eg: https://rageshakes.element.io/api/submit
      * Read more about rageshake at https://github.com/matrix-org/rageshake
      * OPTIONAL
      */
