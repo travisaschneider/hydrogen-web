@@ -1,9 +1,9 @@
 {
   "push": {
     "appId": "io.element.hydrogen.web",
-    "gatewayUrl": "https://matrix.org",
+    "gatewayUrl": "https://matrix.travisschneider.com",
     "applicationServerKey": "BC-gpSdVHEXhvHSHS0AzzWrQoukv2BE7KzpoPO_FfPacqOo3l1pdqz7rSgmB04pZCWaHPz7XRe6fjLaC-WPDopM"
   },
-  "defaultHomeServer": "matrix.org",
+  "defaultHomeServer": "https://matrix.travisschneider.com",
   "bugReportEndpointUrl": "https://rageshakes.element.io/api/submit"
 }
